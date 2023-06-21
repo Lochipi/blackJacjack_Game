@@ -1,4 +1,4 @@
-# blackJacjack_Game
+# blackJack_Game
 A simple game that enables users play with cards, random numbers mimicking cards. Used JavaScript for the functionality
 
 
