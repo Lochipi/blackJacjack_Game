@@ -16,3 +16,4 @@ A simple game that enables users play with cards, random numbers mimicking cards
 ## stack used 
 - **HTML**
 - **CSS**
+- **javaScript**
